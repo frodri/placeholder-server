@@ -1,0 +1,3 @@
+# Ignore VSCode and "go build" output
+debug
+placeholder-server.exe
